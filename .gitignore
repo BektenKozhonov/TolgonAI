@@ -1,3 +1,4 @@
 .env
 .venv
 old_works
+.gitignore
