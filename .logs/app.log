@@ -1,0 +1,20 @@
+2024-12-01 05:51:33,158 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'ogg', '-i', 'D:/Projects/TolgonAI/audio.ogg', '-acodec', 'pcm_s32le', '-vn', '-f', 'wav', '-'])
+2024-12-01 05:51:33,572 - faster_whisper - INFO - Processing audio with duration 00:30.314
+2024-12-01 05:51:36,089 - faster_whisper - INFO - Detected language 'en' with probability 0.66
+2024-12-01 05:51:36,090 - faster_whisper - DEBUG - Processing segment at 00:00.000
+2024-12-01 05:51:38,056 - faster_whisper - DEBUG - Processing segment at 00:26.000
+2024-12-01 06:22:07,182 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'ogg', '-i', 'D:/Projects/TolgonAI/audio.ogg', '-acodec', 'pcm_s32le', '-vn', '-f', 'wav', '-'])
+2024-12-01 06:22:07,463 - faster_whisper - INFO - Processing audio with duration 00:30.314
+2024-12-01 06:22:10,171 - faster_whisper - INFO - Detected language 'en' with probability 0.66
+2024-12-01 06:22:10,173 - faster_whisper - DEBUG - Processing segment at 00:00.000
+2024-12-01 06:22:12,624 - faster_whisper - DEBUG - Processing segment at 00:26.000
+2024-12-01 06:22:23,425 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'ogg', '-i', 'D:/Projects/TolgonAI/audio.ogg', '-acodec', 'pcm_s32le', '-vn', '-f', 'wav', '-'])
+2024-12-01 06:22:23,663 - faster_whisper - INFO - Processing audio with duration 00:30.314
+2024-12-01 06:22:26,411 - faster_whisper - INFO - Detected language 'en' with probability 0.66
+2024-12-01 06:22:26,412 - faster_whisper - DEBUG - Processing segment at 00:00.000
+2024-12-01 06:22:29,101 - faster_whisper - DEBUG - Processing segment at 00:26.000
+2024-12-01 06:29:19,763 - pydub.converter - DEBUG - subprocess.call(['ffmpeg', '-y', '-f', 'ogg', '-i', 'D:/Projects/TolgonAI/audio.ogg', '-acodec', 'pcm_s32le', '-vn', '-f', 'wav', '-'])
+2024-12-01 06:29:20,005 - faster_whisper - INFO - Processing audio with duration 00:30.314
+2024-12-01 06:29:22,370 - faster_whisper - INFO - Detected language 'en' with probability 0.66
+2024-12-01 06:29:22,371 - faster_whisper - DEBUG - Processing segment at 00:00.000
+2024-12-01 06:29:24,599 - faster_whisper - DEBUG - Processing segment at 00:26.000
